@@ -1,2 +1,2 @@
-# Cartao_de_credito
-Desenvolvido em sala de aula
+# Credit-Card
+Projeto desenvolvido em sala de aula com o professor Rafael
